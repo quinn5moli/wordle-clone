@@ -1,2 +1,2 @@
 # wordle-clone
-wordle clone node project using reactjs, css, html, and some typescript
+wordle clone node project using reactjs, parceljs css, html, and some typescript
